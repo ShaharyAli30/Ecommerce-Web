@@ -1,0 +1,42 @@
+body{
+    background-color: white;
+}
+.img1{
+    padding-left: 80px;
+    padding-top: 45px;
+
+}
+.navbar
+{
+   padding: 48px;
+   position: absolute;
+   left: 870px;
+   font-family: 'Times New Roman', Times, serif;
+   justify-content: space-between;
+   
+}
+.icons{
+    position: absolute;
+    top: 60px;
+    left: 1300px;
+}
+.img2
+{
+    padding-top: 50px;
+    
+}
+.text{
+  padding-top: 200px ;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(0, 0, 32);
+}
+.butt{
+    padding-top: 30px;
+    padding-left: 10px;
+}
+.Button{
+    padding: 10px;
+    border-radius: 50px;
+  background-color: rgb(163, 7, 163);
+  color: azure;
+}
